@@ -14,7 +14,7 @@
 <p align="left"> 🔭 I’m working as a Web developer 
   <br>- 📚 I'm currently learning full stack development
   <br>- ⚡ In my free time I contribute to the research group 
-  <a href="www.manifoldrg.com"> Manifold</a></p>
+  <a href="https://www.manifoldrg.com" target="_blank"> Manifold</a></p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/miles-batey" target="_blank">
